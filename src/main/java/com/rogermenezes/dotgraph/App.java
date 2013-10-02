@@ -2,6 +2,7 @@ package com.rogermenezes.dotgraph;
 
 /**
  * Hello world!
+ * Testing a commit....
  *
  */
 public class App 
